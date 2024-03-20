@@ -1,0 +1,25 @@
+{
+  "name": "w3nectar-gatherer",
+  "version": "1.0.0",
+  "description": "Gather and collect Web3 data with W3Nectar Gatherer, offering data retrieval and aggregation capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xxxapexxx/w3nectar-gatherer"
+  },
+  "author": "xxxapexxx",
+  "license": "MIT",
+  "dependencies": {
+    "w3nectar-integrator": "1.0.0",
+    "w3nectar-gatherer": "1.0.0",
+    "body-parser": "1.0.0",
+    "react-redux": "1.0.0",
+    "passport": "1.0.0",
+    "pg": "1.0.0",
+    "ejs": "1.0.0",
+    "firebase": "1.0.0"
+  }
+}
